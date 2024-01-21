@@ -2,14 +2,6 @@
 
 ¡Bienvenido al repositorio oficial del curso Oracle Next Education Edition 2024! Aquí encontrarás todos los ejercicios y retos propuestos a lo largo del curso, así como el seguimiento y avance de cada tarea.
 
-## Estructura del Repositorio
-
-El repositorio está organizado de la siguiente manera:
-
-- **/ejercicios:** Carpeta que contiene los diferentes ejercicios prácticos del curso.
-- **/retos:** Carpeta para los desafíos y proyectos más complejos.
-- **/avance:** Registro del progreso realizado en cada tarea.
-
 ## Iconos de Tecnologías Utilizadas
 
 - :gear: - Configuración y ajustes generales
