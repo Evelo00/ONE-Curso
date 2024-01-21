@@ -21,8 +21,8 @@ El repositorio está organizado de la siguiente manera:
 
 ## Tecnologías Destacadas
 
-- :javascript: - JavaScript
-- :html5: - HTML5
+- :javaScript: - JavaScript
+- :html: - HTML5
 - :art: - CSS
 - :vscode: - Visual Studio Code
 - :react: - React
